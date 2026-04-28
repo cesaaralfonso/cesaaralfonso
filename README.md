@@ -7,7 +7,7 @@
 
 ## 🛠️ Expertise Técnico
 
-- **Sistemas OT & Telemetría:** Redes Mesh Industriales (Pan American Silver - **UM Shahuindo**). Reingeniería de Seguridad Electrónica e Infraestructura (**Gold Fields - UM Cerro Corona**). Análisis Ferroviario y Motores de Tracción EMD/GE (**SPCC**). Mantenimiento de Locomotoras y Camiones de Alto Tonelaje (Komatsu, Caterpillar, Alstom).
+- **Sistemas OT & Telemetría:** Redes Mesh Industriales (**Pan American Silver** - **UM Shahuindo**). Reingeniería de Seguridad Electrónica e Infraestructura (**Gold Fields - UM Cerro Corona**). Análisis Ferroviario y Motores de Tracción EMD/GE (**Southern Peru Cooper Corporation**). Mantenimiento de Locomotoras y Camiones de Alto Tonelaje (Komatsu, Caterpillar, Alstom).
 - **Networking & Infraestructura:** MikroTik, Aruba, Cisco, Huawei (HCIE Cloud/Datacom), SNMP, Zabbix, Hytera RF, Gestión de UPS APC/Schneider & Eaton.
 - **Desarrollo & Datos:** Flutter, Python, Ciencia de Datos, Sistemas Predictivos (Filtros Kalman).
 - **Metodologías:** ITIL, Scrum, 5S, ISO 9001/14001/45001.
