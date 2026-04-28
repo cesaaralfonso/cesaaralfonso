@@ -1,43 +1,67 @@
 # César Alfonso Cáceres Alvarado 🇵🇪
-### Ingeniero Electrónico | Especialista IT/OT | Maestrante en Sistemas
+### Electronic Engineer | OT/IT Systems Specialist | Railway & Industrial IoT
 
-¡Bienvenido! Soy un apasionado por la convergencia entre el hardware industrial y el software de alta disponibilidad. Mi enfoque está en optimizar la continuidad operativa en sectores críticos como la **Minería** y el **Transporte Ferroviario**.
-
----
-
-## 🛠️ Expertise Técnico
-
-- **Sistemas OT & Telemetría:** Redes Mesh Industriales (**Pan American Silver** - **UM Shahuindo**). Reingeniería de Seguridad Electrónica e Infraestructura (**Gold Fields - UM Cerro Corona**). Análisis Ferroviario y Motores de Tracción EMD/GE (**Southern Peru Cooper Corporation**). Mantenimiento de Locomotoras y Camiones de Alto Tonelaje (Komatsu, Caterpillar, Alstom).
-- **Networking & Infraestructura:** MikroTik, Aruba, Cisco, Huawei (HCIE Cloud/Datacom), SNMP, Zabbix, Hytera RF, Gestión de UPS APC/Schneider & Eaton.
-- **Desarrollo & Datos:** Flutter, Python, Ciencia de Datos, Sistemas Predictivos (Filtros Kalman).
-- **Metodologías:** ITIL, Scrum, 5S, ISO 9001/14001/45001.
+Ingeniero Electrónico con +8 años en sectores críticos — minería de tajo abierto 
+y tracción ferroviaria. Especializado en convergencia OT/IT, telemetría industrial 
+y mantenimiento predictivo. Orientado al mercado ferroviario europeo.
 
 ---
 
-## 🏗️ Proyectos en GitHub
+## 🚂 Railway Experience
 
-- **[UPS Management Linux](https://github.com/cesaaralfonso/ups-management-linux):** Firmware recovery APC + Eaton desde Linux — SSH/FTP/dnsmasq. Sin Windows, sin cable serial.
-- **Industrial Mesh Optimizer:** *(Work in progress)* Scripts para topologías en redes mineras de tajo abierto.
-- **Loco-Telemetry Dashboard:** *(Work in progress)* Flutter para diagnóstico de motores de tracción EMD/GE.
-- **Logitech Dongle Tool:** Reverse engineering protocolo Unifying para receptores huérfanos.
-- **MikroTik Scripts:** *(Coming soon)*
+- **Alstom** — Mantenimiento de locomotoras y sistemas de tracción
+- **Southern Peru Copper Corporation** — Análisis ferroviario, motores EMD/GE, 
+  camiones de alto tonelaje (Komatsu, Caterpillar)
 
 ---
 
-## 🌍 Idiomas & Movilidad
+## ⛏️ Industrial OT/IT
 
-- **Español:** Nativo 🇵🇪
-- **English:** Intermediate (B2)
-- **Italiano:** Basic (A1/A2) 🇮🇹
-- **Disponibilidad:** Relocalización internacional 🛂
+- **Pan American Silver – UM Shahuindo** — Redes Mesh industriales y telemetría
+- **Gold Fields – UM Cerro Corona** — Reingeniería de seguridad electrónica 
+  e infraestructura IT/OT
 
 ---
 
-## 📬 Conectemos
+## 🛠️ Stack Técnico
 
-- [LinkedIn](https://www.linkedin.com/in/césar-cáceres-70932484)
-- [Web](http://insalsolutions.net)
-- [cesaaralfonso@outlook.com](mailto:cesaaralfonso@outlook.com)
+**Redes & Infraestructura:** MikroTik · Aruba · Cisco · Huawei (HCIE) · Zabbix · SNMP  
+**Sistemas OT:** Telemetría industrial · Hytera RF · UPS APC/Schneider/Eaton  
+**Desarrollo:** Python · Flutter · Filtros Kalman · Ciencia de Datos  
+**Metodologías:** ITIL · Scrum · ISO 9001/14001/45001
+
+---
+
+## 🏗️ Proyectos
+
+- **[UPS Management Linux](https://github.com/cesaaralfonso/ups-management-linux)**  
+  Firmware recovery APC + Eaton desde Linux — SSH/FTP/dnsmasq. Sin Windows, sin cable serial.
+
+- **Logitech Dongle Tool** *(publicación próxima)*  
+  Reverse engineering protocolo Unifying para receptores huérfanos — Python puro.
+
+- **Loco-Telemetry Dashboard** *(en desarrollo)*  
+  Dashboard Flutter para diagnóstico en tiempo real de motores de tracción EMD/GE.
+
+- **Industrial Mesh Optimizer** *(en desarrollo)*  
+  Scripts para topologías en redes mineras de tajo abierto.
+
+---
+
+## 🌍 Idiomas & Disponibilidad
+
+- **Español:** Nativo 🇵🇪  
+- **English:** B2  
+- **Italiano:** A2 — en formación activa 🇮🇹  
+- **Disponibilidad:** Reubicación inmediata · España / Italia
+
+---
+
+## 📬 Contacto
+
+[LinkedIn](https://www.linkedin.com/in/césar-cáceres-70932484) · 
+[insalsolutions.net](http://insalsolutions.net) · 
+cesaaralfonso@outlook.com
 
 ---
 
